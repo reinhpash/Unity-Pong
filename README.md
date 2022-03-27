@@ -3,6 +3,8 @@
 <p align="center">
 This is just a pong game nothing special
 <p align="center">
-You can play this game in [my itch.io page](https://aeterponis.itch.io/pong)
+ You can play this game in <a href="https://aeterponis.itch.io/pong">my itch.io page</a>
  
-![PONG](https://img.itch.zone/aW1hZ2UvMTQ1Nzc0Mi84NTEwODcwLnBuZw==/original/pXz5IE.png)
+ <p align="center">
+  <img width="200" src="https://img.itch.zone/aW1hZ2UvMTQ1Nzc0Mi84NTEwODcwLnBuZw==/original/pXz5IE.png" alt="Pong">
+</p>
